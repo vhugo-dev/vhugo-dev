@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá, eu sou o Victor Hugo 👋
 
-<!--
-**vhugo-dev/vhugo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na Anhembi Morumbi.
+📚 Atualmente estudando lógica de programação e algoritmos pelo Curso em Vídeo do Gustavo Guanabara.
+🌱 Começando a aprender Git e GitHub.  
+🔍 Explorando diferentes áreas para descobrir se sigo front-end ou back-end.  
+🎸 Músico e cristão.
 
-Here are some ideas to get you started:
+## Objetivo
+Estou em busca de aprender mais e ganhar experiência prática para conseguir meu primeiro estágio na área de tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contato
+📧 E-mail: vhrodriguesz.dev@gmail.com
